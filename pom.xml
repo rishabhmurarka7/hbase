@@ -817,8 +817,8 @@
     <httpclient.version>4.5.13</httpclient.version>
     <httpcore.version>4.4.13</httpcore.version>
     <metrics-core.version>3.2.6</metrics-core.version>
-    <jackson.version>2.14.1</jackson.version>
-    <jackson.databind.version>2.14.1</jackson.databind.version>
+    <jackson.version>2.15.0</jackson.version>
+    <jackson.databind.version>2.15.0</jackson.databind.version>
     <jaxb-api.version>2.3.1</jaxb-api.version>
     <servlet.api.version>3.1.0</servlet.api.version>
     <wx.rs.api.version>2.1.1</wx.rs.api.version>
@@ -886,7 +886,7 @@
     <snappy.version>1.1.9.1</snappy.version>
     <xz.version>1.9</xz.version>
     <zstd-jni.version>1.5.4-2</zstd-jni.version>
-    <hbase-thirdparty.version>4.1.4</hbase-thirdparty.version>
+    <hbase-thirdparty.version>4.1.5</hbase-thirdparty.version>
     <!-- Coverage properties -->
     <jacoco.version>0.8.8</jacoco.version>
     <jacocoArgLine/>
