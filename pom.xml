@@ -791,7 +791,7 @@
     <maven.min.version>3.5.0</maven.min.version>
     <java.min.version>${compileSource}</java.min.version>
     <!-- Dependencies -->
-    <hadoop-three.version>3.2.4</hadoop-three.version>
+    <hadoop-three.version>3.4.1</hadoop-three.version>
     <!-- These must be defined here for downstream build tools that don't look at profiles.
     -->
     <hadoop.version>${hadoop-three.version}</hadoop.version>
@@ -811,7 +811,7 @@
     <commons-codec.version>1.15</commons-codec.version>
     <commons-validator.version>1.7</commons-validator.version>
     <commons-io.version>2.11.0</commons-io.version>
-    <commons-lang3.version>3.9</commons-lang3.version>
+    <commons-lang3.version>3.18.0</commons-lang3.version>
     <commons-math.version>3.6.1</commons-math.version>
     <disruptor.version>3.4.2</disruptor.version>
     <httpclient.version>4.5.13</httpclient.version>
