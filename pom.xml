@@ -791,7 +791,7 @@
     <maven.min.version>3.5.0</maven.min.version>
     <java.min.version>${compileSource}</java.min.version>
     <!-- Dependencies -->
-    <hadoop-three.version>3.2.4</hadoop-three.version>
+    <hadoop-three.version>3.4.1</hadoop-three.version>
     <!-- These must be defined here for downstream build tools that don't look at profiles.
     -->
     <hadoop.version>${hadoop-three.version}</hadoop.version>
@@ -811,14 +811,14 @@
     <commons-codec.version>1.15</commons-codec.version>
     <commons-validator.version>1.7</commons-validator.version>
     <commons-io.version>2.11.0</commons-io.version>
-    <commons-lang3.version>3.9</commons-lang3.version>
+    <commons-lang3.version>3.18.0</commons-lang3.version>
     <commons-math.version>3.6.1</commons-math.version>
     <disruptor.version>3.4.2</disruptor.version>
     <httpclient.version>4.5.13</httpclient.version>
     <httpcore.version>4.4.13</httpcore.version>
     <metrics-core.version>3.2.6</metrics-core.version>
-    <jackson.version>2.14.1</jackson.version>
-    <jackson.databind.version>2.14.1</jackson.databind.version>
+    <jackson.version>2.15.0</jackson.version>
+    <jackson.databind.version>2.15.0</jackson.databind.version>
     <jaxb-api.version>2.3.1</jaxb-api.version>
     <servlet.api.version>3.1.0</servlet.api.version>
     <wx.rs.api.version>2.1.1</wx.rs.api.version>
@@ -886,7 +886,7 @@
     <snappy.version>1.1.9.1</snappy.version>
     <xz.version>1.9</xz.version>
     <zstd-jni.version>1.5.4-2</zstd-jni.version>
-    <hbase-thirdparty.version>4.1.4</hbase-thirdparty.version>
+    <hbase-thirdparty.version>4.1.5</hbase-thirdparty.version>
     <!-- Coverage properties -->
     <jacoco.version>0.8.8</jacoco.version>
     <jacocoArgLine/>
